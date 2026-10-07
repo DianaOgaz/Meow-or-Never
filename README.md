@@ -1,4 +1,4 @@
-# Cepilla al Gato 🐱
+# Meow or Never 🐱
 
 Juego para Android (Kotlin + Jetpack Compose). Cepilla al gato el mayor tiempo posible sin que se fastidie: si el fastidio llega a 100 %, te muerde y vuelves a empezar desde 0.
 
@@ -23,8 +23,3 @@ Juego para Android (Kotlin + Jetpack Compose). Cepilla al gato el mayor tiempo p
 
 El récord y los sucesos descubiertos (bitácora) se guardan en el teléfono.
 
-## Dónde ajustar cosas
-- Probabilidades y efectos: `game/Models.kt` (`CatEvent`, `CatZone`).
-- Reglas (dificultad, velocidad brusca, calma): `game/GameViewModel.kt`.
-- Dibujo del gato, OVNI y cepillo: `ui/CatDrawing.kt`.
-- Pantalla: `ui/GameScreen.kt`.
