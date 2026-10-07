@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Orejas -->
+    <path android:fillColor="#F2994A" android:pathData="M34,46 L38,24 L52,38 Z" />
+    <path android:fillColor="#F2994A" android:pathData="M74,46 L70,24 L56,38 Z" />
+    <!-- Cabeza -->
+    <path android:fillColor="#F2994A" android:pathData="M30,58 a24,22 0 1,1 48,0 a24,22 0 1,1 -48,0 Z" />
+    <!-- Ojos cerrados felices -->
+    <path android:strokeColor="#3B2A1A" android:strokeWidth="3" android:strokeLineCap="round"
+        android:pathData="M40,56 q5,-5 10,0" />
+    <path android:strokeColor="#3B2A1A" android:strokeWidth="3" android:strokeLineCap="round"
+        android:pathData="M58,56 q5,-5 10,0" />
+    <!-- Nariz -->
+    <path android:fillColor="#E86A7A" android:pathData="M51,63 L57,63 L54,67 Z" />
+    <!-- Cepillo -->
+    <path android:fillColor="#8D5A3B" android:pathData="M62,74 L84,66 L86,71 L64,79 Z" />
+</vector>
